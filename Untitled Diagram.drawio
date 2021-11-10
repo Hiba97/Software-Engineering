@@ -1,67 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T14:48:10.267Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="cvhiF3Zgp1D3VdAoVgPP" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T10:44:31.039Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="eA0Kc9zb1PQ5cLqbTxic" version="15.7.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="874" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="120" as="sourcePoint" />
-            <mxPoint x="220" y="170" as="targetPoint" />
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="340" width="720" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="h4LUE6Xv-uTvkPFXBO63-0" value="Account neu anlegen" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="h4LUE6Xv-uTvkPFXBO63-1" value="Vervollständigung der persönlichen Daten&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="390" y="410" width="110" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="h4LUE6Xv-uTvkPFXBO63-2" value="&lt;b&gt;automatische &lt;/b&gt;Vervollständigung der persönlichen Daten&lt;br&gt;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="472" y="585" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h4LUE6Xv-uTvkPFXBO63-15" value="überprüfen lassen, ob alle angemeldeten Teilnehmer_innen als Mitglieder beim veranstaltenden Sportverband registriert sind.&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="597" y="900" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-1" value="Orga&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="980" y="585" width="30" height="60" as="geometry" />
+        </mxCell>
+        <object label="Teilnehmer" id="wBV2Z1-_OhYICEszyjGr-3">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="50" y="540" width="30" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="h4LUE6Xv-uTvkPFXBO63-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="670" as="sourcePoint" />
+            <mxPoint x="440" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="670" />
+              <mxPoint x="860" y="770" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h4LUE6Xv-uTvkPFXBO63-0" value="Account neu anlegen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="60" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h4LUE6Xv-uTvkPFXBO63-1" value="Vervollständigung der persönlichen Daten&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="170" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="h4LUE6Xv-uTvkPFXBO63-2" value="automatisch ausfüllen lassen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="294" y="270" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="h4LUE6Xv-uTvkPFXBO63-3" value="Abgleich mit dem Mitgliedsvewaltungssystem des Sportvereins" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="279" y="370" width="270" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="h4LUE6Xv-uTvkPFXBO63-4" value="Mitgliedsnummer eingeben" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="540" width="120" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="h4LUE6Xv-uTvkPFXBO63-5" value="die Erlaubnis zum Datenabgleich erteilen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="700" width="170" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="h4LUE6Xv-uTvkPFXBO63-6" value="klickt auf die Schaltfläche „Abgleich“" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380" y="910" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="h4LUE6Xv-uTvkPFXBO63-7" value="Ansonsten muss das Profil von Hand ausgefüllt werden, dazu gibt sie Namen, Adresse, Sportverein und die Verbandsmitgliedsnummer ein und bestätigt die Accounterstellung über die Schaltfläche „Account erstellen“." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="270" width="180" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="h4LUE6Xv-uTvkPFXBO63-8" value="nach Anmeldung bei „EasyCompete“ einen individuellen Zeitplan für die aktiven Wettkämpfe anzeigen lassen." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="1060" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="h4LUE6Xv-uTvkPFXBO63-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.036;entryY=0.66;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="h4LUE6Xv-uTvkPFXBO63-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="1000" as="sourcePoint" />
-            <mxPoint x="290" y="1100" as="targetPoint" />
+            <mxPoint x="100" y="570" as="sourcePoint" />
+            <mxPoint x="250" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-19" value="&lt;div&gt;Login könnte auch modelliert werden, aber gemäß Folie 23 (Foliensatz &quot;SE_03...&quot;) ist Login kein Use Case. Gemäß Folie 26 werden nur USe Cases, Scope und Actors modelliert.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="160" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4LUE6Xv-uTvkPFXBO63-0" target="h4LUE6Xv-uTvkPFXBO63-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="440" as="sourcePoint" />
+            <mxPoint x="425" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4LUE6Xv-uTvkPFXBO63-2" target="h4LUE6Xv-uTvkPFXBO63-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="470" as="sourcePoint" />
+            <mxPoint x="310" y="420" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h4LUE6Xv-uTvkPFXBO63-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-23" value="einen individuellen Zeitplan für die aktiven Wettkämpfe anzeigen lassen." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wBV2Z1-_OhYICEszyjGr-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="1000" as="sourcePoint" />
-            <mxPoint x="150" y="1080" as="targetPoint" />
-            <Array as="points" />
+            <mxPoint x="390" y="560" as="sourcePoint" />
+            <mxPoint x="100" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h4LUE6Xv-uTvkPFXBO63-12" value="Teilnehmner" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="10" width="60" height="30" as="geometry" />
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-25" value="&amp;nbsp;Abgleich mit dem Mitgliedsverwaltungssystem des Sportverbandes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="410" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="h4LUE6Xv-uTvkPFXBO63-13" value="Orga&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="20" width="60" height="30" as="geometry" />
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="597" y="624.5" as="sourcePoint" />
+            <mxPoint x="597" y="624.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="h4LUE6Xv-uTvkPFXBO63-14" value="einloggen&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="110" width="120" height="80" as="geometry" />
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-32" value="Vervollständigung der persönlichen Daten &lt;b&gt;per Hand&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="587.5" width="110" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="h4LUE6Xv-uTvkPFXBO63-15" value="überprüfen lassen, ob alle angemeldeten Teilnehmer_innen als Mitglieder beim veranstaltenden Sportverband registriert sind. Dazu findet ein Datenabgleich der Mitgliedsnummern der Profile der Teilnehmenden mit dem Mitgliedsverwaltungssystem des Verbandes statt." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="230" width="230" height="210" as="geometry" />
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-33" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wBV2Z1-_OhYICEszyjGr-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="540" as="sourcePoint" />
+            <mxPoint x="450" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-34" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.34;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="wBV2Z1-_OhYICEszyjGr-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="620" as="sourcePoint" />
+            <mxPoint x="630" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-36" value="≪ extend ≫" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="540" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-37" value="≪ Include ≫" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wBV2Z1-_OhYICEszyjGr-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="460" as="sourcePoint" />
+            <mxPoint x="430" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wBV2Z1-_OhYICEszyjGr-42" value="&lt;div&gt;Condition:&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Teilnehmer_in gibt Mitgliedsnummer ein und erteilt Erlaubnis zum Datenabgleich&lt;/div&gt;&lt;div&gt;Extention Point:&amp;nbsp;&lt;/div&gt;- Teilnehmer_in klickt auf &quot;Abgleich&quot; :&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=-45;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="570" width="155" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

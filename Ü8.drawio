@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T14:09:24.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="ColoDmQKL8Tdgex0jiFV" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T14:10:30.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="f_f70jdiwOPVguu108lI" version="15.9.1" type="github">
   <diagram id="-uz1Rn0zQsr9ndRPAgWC" name="Page-1">
     <mxGraphModel dx="713" dy="1683" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -240,6 +240,9 @@
         </mxCell>
         <mxCell id="BY4qRt6Kh8NHYWD66ViZ-11" value="+ createRanking()(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BY4qRt6Kh8NHYWD66ViZ-8">
           <mxGeometry y="60" width="298" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BY4qRt6Kh8NHYWD66ViZ-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;br&gt;&lt;b&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;Comparator&amp;lt;T&amp;gt;&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="-1129" width="289" height="161" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T13:13:59.312Z" agent="5.0 (X11)" etag="PyXn8a9EBskStUDNOhC4" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T13:15:37.586Z" agent="5.0 (X11)" etag="ELGkF980Df8MPDuYfckf" version="16.2.4" type="github">
   <diagram id="-uz1Rn0zQsr9ndRPAgWC" name="Page-1">
-    <mxGraphModel dx="433" dy="1528" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="519" dy="1600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,7 +112,7 @@
         <mxCell id="28LgO0DFCYYeMGnvJ6AU-43" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="28LgO0DFCYYeMGnvJ6AU-41" vertex="1">
           <mxGeometry y="52" width="282" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="28LgO0DFCYYeMGnvJ6AU-44" value="+ createConnection&#xa;+ createResult" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="28LgO0DFCYYeMGnvJ6AU-41" vertex="1">
+        <mxCell id="28LgO0DFCYYeMGnvJ6AU-44" value="+ createConnection(): IFederationDBConnection&#xa;+ createResult(): IDBResult" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="28LgO0DFCYYeMGnvJ6AU-41" vertex="1">
           <mxGeometry y="60" width="282" height="48" as="geometry" />
         </mxCell>
         <mxCell id="28LgO0DFCYYeMGnvJ6AU-45" value="&amp;lt;&amp;lt;creates&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=-0.015;entryY=0.346;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="28LgO0DFCYYeMGnvJ6AU-23" edge="1">

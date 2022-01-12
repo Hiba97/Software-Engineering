@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T14:25:24.090Z" agent="5.0 (X11)" etag="rOeggun89b1nuhLUIOPQ" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T14:26:05.638Z" agent="5.0 (X11)" etag="FA78hAO2ljw1t6BPRhUL" version="16.2.4" type="github">
   <diagram id="-uz1Rn0zQsr9ndRPAgWC" name="Page-1">
     <mxGraphModel dx="493" dy="1569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,7 +235,7 @@
         <mxCell id="BY4qRt6Kh8NHYWD66ViZ-10" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="BY4qRt6Kh8NHYWD66ViZ-8" vertex="1">
           <mxGeometry y="26" width="298" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="BY4qRt6Kh8NHYWD66ViZ-11" value="+ createRanking(): " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="BY4qRt6Kh8NHYWD66ViZ-8" vertex="1">
+        <mxCell id="BY4qRt6Kh8NHYWD66ViZ-11" value="+ createRanking():void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="BY4qRt6Kh8NHYWD66ViZ-8" vertex="1">
           <mxGeometry y="34" width="298" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BY4qRt6Kh8NHYWD66ViZ-14" value="&lt;&lt;interface&gt;&gt;&#xa;Comparator&lt;T&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=42;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">

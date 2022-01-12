@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T14:04:43.338Z" agent="5.0 (X11)" etag="R4ckQZi89ab0krH6tV2x" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T14:06:50.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="SgbjQ076SrQWs80-1L7k" version="15.9.1" type="github">
   <diagram id="-uz1Rn0zQsr9ndRPAgWC" name="Page-1">
-    <mxGraphModel dx="868" dy="1569" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="713" dy="1683" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,6 +143,7 @@
             <mxPoint x="222.5" y="57.700000000000045" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
+              <mxPoint x="683" y="774" />
               <mxPoint x="683" y="764" />
               <mxPoint x="868" y="764" />
               <mxPoint x="868" y="12" />
@@ -213,8 +214,20 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BY4qRt6Kh8NHYWD66ViZ-1" value="*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BY4qRt6Kh8NHYWD66ViZ-1" value="*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="766" width="33" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="BY4qRt6Kh8NHYWD66ViZ-4" value="Team" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="346" y="-939" width="295" height="361" as="geometry" />
+        </mxCell>
+        <mxCell id="BY4qRt6Kh8NHYWD66ViZ-5" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BY4qRt6Kh8NHYWD66ViZ-4">
+          <mxGeometry y="26" width="295" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BY4qRt6Kh8NHYWD66ViZ-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="BY4qRt6Kh8NHYWD66ViZ-4">
+          <mxGeometry y="52" width="295" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="BY4qRt6Kh8NHYWD66ViZ-7" value="+ getPointsTotal((type): type&#xa;+ getGoalsScoredTotal()&#xa;+ getGoalsConcededTotal()&#xa;+  getPointsAgainst(Team t)&#xa;+ " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="BY4qRt6Kh8NHYWD66ViZ-4">
+          <mxGeometry y="60" width="295" height="301" as="geometry" />
         </mxCell>
         <mxCell id="7D6bq5xNwiRdmu4fCgVK-1" value="factory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="734" width="33" height="15" as="geometry" />

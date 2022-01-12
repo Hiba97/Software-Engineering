@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-12T12:52:25.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="KbtIbK6k4SEUKSZYoGRj" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-12T12:53:01.799Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="GJ_xpw1RUmyG5ztbo2_X" version="15.9.1" type="github">
   <diagram id="-uz1Rn0zQsr9ndRPAgWC" name="Page-1">
     <mxGraphModel dx="646" dy="605" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,8 +66,8 @@
         <mxCell id="28LgO0DFCYYeMGnvJ6AU-30" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="28LgO0DFCYYeMGnvJ6AU-28">
           <mxGeometry y="58" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="28LgO0DFCYYeMGnvJ6AU-32" value="Client" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="838" y="47.69999999999999" width="110" height="50" as="geometry" />
+        <mxCell id="28LgO0DFCYYeMGnvJ6AU-32" value="Client/EasyCompete" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="838" y="47.7" width="156" height="50" as="geometry" />
         </mxCell>
         <mxCell id="28LgO0DFCYYeMGnvJ6AU-36" value="&amp;lt;&amp;lt;creates&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="28LgO0DFCYYeMGnvJ6AU-28">
           <mxGeometry x="-0.114" relative="1" as="geometry">

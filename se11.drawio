@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T10:25:57.003Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="tBQmG1fY-leBdaizy2Zr" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-02T10:26:59.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="IB10KT8p3CMrVivCsPky" version="16.4.5" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="1242" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Y8JGmvLRM1bxZAWC_-e7-1" value="EasyCompete" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="130" width="300" height="60" as="geometry" />
+          <mxGeometry x="530" y="140" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y8JGmvLRM1bxZAWC_-e7-2" value="Teilnehmendenverwaltung" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="360" width="150" height="60" as="geometry" />
@@ -54,9 +54,6 @@
         </mxCell>
         <mxCell id="Y8JGmvLRM1bxZAWC_-e7-35" value="Zweifaktorauthentifizierung" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="200" y="520" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Y8JGmvLRM1bxZAWC_-e7-42" value="excludes&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y8JGmvLRM1bxZAWC_-e7-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1420" y="492.5" width="20" height="20" as="geometry" />
@@ -151,7 +148,7 @@
         <mxCell id="A2lUgPhtqQNt_TuIHzVY-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1160" y="492.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xTNsDvPoMYs4Q8DcSBzv-25" value="requires" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="Y8JGmvLRM1bxZAWC_-e7-26">
+        <mxCell id="xTNsDvPoMYs4Q8DcSBzv-25" value="excludes" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="Y8JGmvLRM1bxZAWC_-e7-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="560" as="sourcePoint" />
             <mxPoint x="1320" y="530" as="targetPoint" />

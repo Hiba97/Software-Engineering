@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T10:36:23.623Z" agent="5.0 (X11)" etag="HSFRfTsW4mV9WjueP4_K" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-02T10:36:36.828Z" agent="5.0 (X11)" etag="L-ECWS8OM8pHpgZ0xHov" version="16.5.2" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="1042" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sr6Bwsw0yYIFLWccx0p7-2" value="Int ServerAnzahl in [2.. 10]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="409.48" width="140" height="22.5" as="geometry" />
+          <mxGeometry x="1010" y="409.48" width="150" height="20.52" as="geometry" />
         </mxCell>
         <mxCell id="jStNj5culDjl2ZNycLHP-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.325;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Y8JGmvLRM1bxZAWC_-e7-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

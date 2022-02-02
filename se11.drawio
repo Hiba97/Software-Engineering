@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-02T10:33:29.609Z" agent="5.0 (X11)" etag="c_7eB2uGntEJU7ygskG_" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-02T10:33:41.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="Q07kg_Q41SFnw3YOxCHB" version="16.4.5" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
-    <mxGraphModel dx="1042" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="Y8JGmvLRM1bxZAWC_-e7-6" value="Lastverteilung" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="990" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y8JGmvLRM1bxZAWC_-e7-10" value="Int maxTeilnehmener in [10 10000]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="1" vertex="1">
+        <mxCell id="Y8JGmvLRM1bxZAWC_-e7-10" value="Int maxTeilnehmener in [10.. 10000]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="1" vertex="1">
           <mxGeometry x="800" y="399.36" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y8JGmvLRM1bxZAWC_-e7-16" value="Teamverwaltung&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -167,7 +167,7 @@
             <mxPoint x="1297.5" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sr6Bwsw0yYIFLWccx0p7-2" value="Int ServerAnzahl in [2 10]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="1" vertex="1">
+        <mxCell id="sr6Bwsw0yYIFLWccx0p7-2" value="Int ServerAnzahl in [2.. 10]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;" parent="1" vertex="1">
           <mxGeometry x="1010" y="409.48" width="140" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="jStNj5culDjl2ZNycLHP-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.325;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Y8JGmvLRM1bxZAWC_-e7-26" edge="1">
@@ -179,7 +179,7 @@
         <mxCell id="jStNj5culDjl2ZNycLHP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4JnER2VlsqKJ2f_dsQKO-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.cone;fillColor=#000000;" parent="1" vertex="1">
+        <mxCell id="4JnER2VlsqKJ2f_dsQKO-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.cone;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="930" y="492.5" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Vje6qIQoQG7ld1Q9cVYq-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.cone;fillColor=#000000;" vertex="1" parent="1">
